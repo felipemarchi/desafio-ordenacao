@@ -1,0 +1,15 @@
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\bin\Debug\net6.0\DesafioOrdenacao.exe
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\bin\Debug\net6.0\DesafioOrdenacao.deps.json
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\bin\Debug\net6.0\DesafioOrdenacao.runtimeconfig.json
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\bin\Debug\net6.0\DesafioOrdenacao.dll
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\bin\Debug\net6.0\DesafioOrdenacao.pdb
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.csproj.AssemblyReference.cache
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.AssemblyInfoInputs.cache
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.AssemblyInfo.cs
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.dll
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\refint\DesafioOrdenacao.dll
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.pdb
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\DesafioOrdenacao.genruntimeconfig.cache
+C:\Users\felipe.marchi\Desktop\desafio\DesafioOrdenacao\obj\Debug\net6.0\ref\DesafioOrdenacao.dll
